@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-13T22:53:33 CDT" name="Default suite" finished-at="2022-08-13T22:53:41 CDT" duration-ms="7790">
+    <groups>
+    </groups>
+    <test started-at="2022-08-13T22:53:33 CDT" name="Default test" finished-at="2022-08-13T22:53:41 CDT" duration-ms="7790">
+      <class name="test.AddCustomerTest">
+        <test-method signature="loginTest1()[pri:0, instance:test.AddCustomerTest@77eca502]" started-at="2022-08-13T22:53:33 CDT" name="loginTest1" finished-at="2022-08-13T22:53:37 CDT" duration-ms="3987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest1 -->
+        <test-method signature="loginTest2()[pri:0, instance:test.AddCustomerTest@77eca502]" started-at="2022-08-13T22:53:37 CDT" name="loginTest2" finished-at="2022-08-13T22:53:39 CDT" duration-ms="1367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest2 -->
+        <test-method signature="loginTest3()[pri:0, instance:test.AddCustomerTest@77eca502]" started-at="2022-08-13T22:53:39 CDT" name="loginTest3" finished-at="2022-08-13T22:53:39 CDT" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest3 -->
+        <test-method signature="loginTest4()[pri:0, instance:test.AddCustomerTest@77eca502]" started-at="2022-08-13T22:53:39 CDT" name="loginTest4" finished-at="2022-08-13T22:53:41 CDT" duration-ms="2356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest4 -->
+      </class> <!-- test.AddCustomerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
